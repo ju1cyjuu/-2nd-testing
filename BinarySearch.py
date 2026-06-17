@@ -26,3 +26,6 @@ if result != -1:
     print(f"Element found at position: {result+1}")
 else:
     print("Element not found in the list.")
+
+
+
